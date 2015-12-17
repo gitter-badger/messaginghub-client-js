@@ -7,6 +7,8 @@
 
 # How to use
 
+[![Join the chat at https://gitter.im/takenet/messaginghub-client-js](https://badges.gitter.im/takenet/messaginghub-client-js.svg)](https://gitter.im/takenet/messaginghub-client-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **First instance ...**
 
 ```javascript
